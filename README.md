@@ -26,7 +26,8 @@ hypothesis_testing.ipynb: Includes the examining of the four hypotheses based on
 visualizations.py: Includes functions that perform the following tasks;
 * Creates a visualisation of a overlapping density plot
 * Creates a boxplot 
-* 
+
+Premier League 2018.pdf: Powerpoint on the statistical results from the hypothesis testing
 
 Football_players_age_and_minutes.csv: Includes the columns with the values about players age and played minutes on the field, used for the second hypothesis.
 
