@@ -1,4 +1,4 @@
-# mod3_project
+# Football Hypothesis Testing
 
 Goals
 * Create four hypotheses based on our research on the football myths
