@@ -1,8 +1,7 @@
 # mod3_project
 
 Goals
-* Decide on a subject to investigate and find relevant APIs and data sources
-* Create four hypotheses based on our research on the confirmed subject
+* Create four hypotheses based on our research on the football myths
 * Collect relevant data based on our hypothesis
 * Conduct data cleaning and exploratory data analysis
 * Sampling the data and perform appropriate t-tests to the data samples 
