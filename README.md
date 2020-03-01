@@ -1,5 +1,4 @@
 # Football Hypothesis Testing
-
 Goals
 * Create four hypotheses based on our research on the football myths
 * Collect relevant data based on our hypothesis
